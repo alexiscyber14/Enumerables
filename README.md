@@ -72,13 +72,10 @@ This repository includes files with plain ruby programming language that can be 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-- **Postgresql**
-
+In order to run this project you need to:
+- **Download and install ruby on yo machine Ruby**
+- **Clone the github repo of the project onto yo pc and get started**
+- **must have some programming experience**
 ### Usage
 
 To make use of this project, just clone it and execute the code blocks in you postgres pgAdmin in the insert scripts file.
